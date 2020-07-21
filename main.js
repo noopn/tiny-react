@@ -8,5 +8,4 @@ let a = <div name='a' >
 
 console.log(a);
 
-
 document.documentElement.appendChild(a);
