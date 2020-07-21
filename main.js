@@ -7,5 +7,6 @@ let a = <div name='a' >
 </div>;
 
 console.log(a);
+console.log(b);
 
 document.documentElement.appendChild(a);
