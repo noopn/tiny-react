@@ -9,4 +9,7 @@ let a = <div name='a' >
 console.log(a);
 console.log(b);
 
+
+
+
 document.documentElement.appendChild(a);
